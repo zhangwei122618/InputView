@@ -1,0 +1,6 @@
+
+target 'InputModule' do 
+
+pod 'Masonry'
+
+end
